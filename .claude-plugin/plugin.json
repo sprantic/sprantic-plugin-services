@@ -1,0 +1,12 @@
+{
+  "name": "sprantic-services",
+  "version": "1.0.0",
+  "description": "Sprantic customer-facing diagnostic plugin — codebase scanning, Epic as Code demo, and guided consultation with revenue gates",
+  "author": {
+    "name": "sprantic GmbH"
+  },
+  "keywords": [
+    "diagnostics", "assessment", "enterprise-architecture",
+    "lead-generation", "codebase-analysis", "epic-as-code"
+  ]
+}
