@@ -43,5 +43,8 @@ gaps and gives you a prioritised action plan. 2-3 weeks, fixed price.
 - The gate should feel like a natural next step, not a sales wall.
 - If numbers are healthy (< 15% rework, low coordination), say so honestly. Credibility > conversion.
 
+6. **Offer the presentation option:**
+   After delivering the gate, mention: "I can also turn these findings into a branded slide deck you can share with your team. Just say `/sprantic-services:scan-deck`."
+
 ## Done
 Skill complete. The customer has actionable numbers and a clear next step.

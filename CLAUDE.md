@@ -8,7 +8,7 @@
 ## Repository Structure
 ```
 .claude-plugin/     Plugin manifest
-skills/             Skill modules (quick-scan, epic-demo, consult)
+skills/             Skill modules (quick-scan, scan-deck, epic-demo, consult)
 brand/              Offerings, methodology, proof points, conversation rules
 templates/          Scan report template
 ```

@@ -42,4 +42,4 @@ Always say: "That's what the [Assessment/Workshop/Implementation] delivers. Want
 - Be direct about problems. "Your rework rate is high" is more helpful than "there may be opportunities for improvement."
 - Use precise language. Say "31% rework" not "significant rework."
 - Name patterns. "This is the Amnesia Tax — teams rebuilding what was already built because the knowledge isn't captured."
-- Reference real systems. "We see this in the PAI codebase too — the federation model solved it for us."
+- Reference real systems. "We see this in aonther customer's codebase too — the federation model solved it for us."

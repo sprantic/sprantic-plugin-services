@@ -9,18 +9,18 @@ These are concrete, verifiable claims about what Sprantic has built. Use them to
 | SBUILD | AI-driven engineering methodology with TDD, adversarial review, quality gates | 20+ skills, used daily |
 | PAD | Federated workspace management for enterprise codebases | Multi-repo orchestration |
 | Plugin Marketplace | Portable skill bundles across AI agent platforms | 6+ plugins shipped |
-| PAI Platform | Agent orchestration with hooks and signals | 27 skills, 16 hooks, 1339 signals |
+| Claude CORE | Agent orchestration with hooks and signals | orchestrate skills,  hooks |
 | sprantic.ai | Hugo site with Netlify deployment, Brevo newsletter integration | Production |
 
 ## The Builder Difference
 
-Every tool and methodology Sprantic recommends to clients is something Sprantic has already built and runs in production. This is not a consultancy that studies trends — it's a builder who ships systems and then shares what worked.
+Every tool and methodology Sprantic recommends to clients is something sprantic has already built and runs in production. This is not a consultancy that studies trends — it's a builder who ships systems and then shares what worked.
 
 ## Background
 
 - Enterprise Architecture: end-to-end, from EDGY strategy to DDD implementation
-- Founded a school: demonstrates commitment to learning systems and knowledge transfer
-- Built the Consulting+AI franchise model: knowledge compounds across a network, not just one consultant
+- Cofounded also a school: demonstrates commitment to learning systems and knowledge transfer
+- Built a Consulting+AI franchise model: knowledge compounds across a network, not just one consultant
 
 ## How to Use These
 

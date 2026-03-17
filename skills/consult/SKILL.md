@@ -7,7 +7,7 @@ description: Guided conversation about the customer's situation — understand t
 
 A structured conversation that helps the customer articulate their engineering challenges, connects their pain to specific Sprantic offerings, and guides them to the appropriate next step.
 
-This is NOT a sales pitch. It's a genuinely helpful diagnostic conversation that stays within the published-methodology boundary. The customer should feel understood and guided, not sold to.
+This is NOT primarily a sales pitch. It's a genuinely helpful diagnostic conversation that stays within the published-methodology boundary. The customer should feel understood and guided, not sold to.
 
 ## When to Use
 - Customer describes pain but hasn't run a scan yet
